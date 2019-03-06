@@ -10,9 +10,15 @@ Build a health advisor App based on patterns your phone knows about you.  Please
 
 
 User stories defined
+
 Definition of First Sprint
+
 Definition of the modular architecture of first sprint
+
 Technologies to be used in first sprint selected with clear reasons why they were chosen.
+
 APIs of first sprint
+
 Task assignments
+
 Project infrastructure completed.

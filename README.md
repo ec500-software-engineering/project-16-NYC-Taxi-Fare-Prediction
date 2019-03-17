@@ -22,3 +22,8 @@ APIs of first sprint
 Task assignments
 
 Project infrastructure completed.
+## System Design
+
+## Team  Members
+Zhibin Huang： hzhibin@bu.edu
+Shilu Wu： shiluwu@bu.edu

@@ -9,9 +9,12 @@ Build a health advisor App based on patterns your phone knows about you.  Please
 
 
 
-User stories defined
+User stories: 
+We want a cleaver app to help me monitor my health situation, not only by showing the basic physical data, but also providing some other helpful mesuments.
 
-Definition of First Sprint
+
+Definition of First Sprint: 
+Consider what kind of technology we should use except the use of AI Kernel model develop in Kaggle as a guide. Make decision on Android or MacOs App. Geting the primal data and trained model on kernel. Figure out wherther runing it on computer vitrualbox environment or a real phone. Solve the problem on how to get data from a real phone.
 
 Definition of the modular architecture of first sprint
 

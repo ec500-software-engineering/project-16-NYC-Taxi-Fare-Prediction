@@ -31,5 +31,7 @@ Project infrastructure completed.
 
 ## Team  Members
 Zhibin Huang： hzhibin@bu.edu
+
 Shilu Wu： shiluwu@bu.edu
+
 Trello: https://trello.com/b/yJlflbZN/ec500-health-is-number-1

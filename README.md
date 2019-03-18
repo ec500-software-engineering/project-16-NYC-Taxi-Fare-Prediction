@@ -16,7 +16,9 @@ We want a cleaver app to help me monitor my health situation, not only by showin
 Definition of First Sprint: 
 Consider what kind of technology we should use except the use of AI Kernel model develop in Kaggle as a guide. Make decision on Android or MacOs App. Geting the primal data and trained model on kernel. Figure out wherther runing it on computer vitrualbox environment or a real phone. Solve the problem on how to get data from a real phone.
 
-Definition of the modular architecture of first sprint
+Definition of the modular architecture of first sprint:
+
+
 
 Technologies to be used in first sprint selected with clear reasons why they were chosen.
 

@@ -17,7 +17,7 @@ Definition of First Sprint:
 Consider what kind of technology we should use except the use of AI Kernel model develop in Kaggle as a guide. Make decision on Android or MacOs App. Geting the primal data and trained model on kernel. Figure out wherther runing it on computer vitrualbox environment or a real phone. Solve the problem on how to get data from a real phone.
 
 Definition of the modular architecture of first sprint:
-
+![draw](https://user-images.githubusercontent.com/43126280/54558538-64677500-4994-11e9-80a4-03c2d716ee34.jpeg)
 
 
 Technologies to be used in first sprint selected with clear reasons why they were chosen.

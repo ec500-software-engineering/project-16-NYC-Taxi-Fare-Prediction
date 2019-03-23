@@ -1,9 +1,7 @@
 # New York City Taxi Fare Prediction
 
-
-
+Project overview: 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
-
 
 We will build a mobile app that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
 
@@ -34,4 +32,4 @@ Zhibin Huang： hzhibin@bu.edu
 
 Shilu Wu： shiluwu@bu.edu
 
-Trello: https://trello.com/b/yJlflbZN/ec500-health-is-number-1
+Trello Board: https://trello.com/b/yJlflbZN/ec500-new-york-city-taxi-fare-prediction

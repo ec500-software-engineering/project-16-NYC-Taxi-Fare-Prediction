@@ -3,7 +3,7 @@
 Project overview: 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
-We will build a mobile app that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
+We will build a mobile app that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. Our app would ask Google to figure out how to predict the estimated fare amount by using a few features to determine the expected fare amount. The information that Google has obtained are past taxi rides that include:Pickup Time/Date, Pickup Latitude/Longitude, Dropoff Latitude/Longitude, Passenger Count, Fare Amount.
 
 # User stories: 
 As a passenger，I would like to know my estimated taxi fare which is as more precise as possible.

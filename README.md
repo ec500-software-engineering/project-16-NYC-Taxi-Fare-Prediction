@@ -1,20 +1,18 @@
-# Health App
+# New York City Taxi Fare Prediction
 
 
 
-https://www.kaggle.com/morrisb/what-does-your-smartphone-know-about-you
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 
-Build a health advisor App based on patterns your phone knows about you.  Please use the AI Kernel model develop in Kaggle as a guide.  You dont need to run any training algorithm but you can use this data to build the application.
-
-
+We will predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
 
 # User stories: 
-We want a cleaver app to help me monitor my health situation, not only by showing the basic physical data, but also providing some other helpful mesuments.
+
 
 
 # Definition of First Sprint: 
-Consider what kind of technology we should use except the use of AI Kernel model develop in Kaggle as a guide. Make decision on Android or MacOs App. Geting the primal data and trained model on kernel. Figure out wherther runing it on computer vitrualbox environment or a real phone. Solve the problem on how to get data from a real phone.
+Consider what kind of technology we should use except the use of AI Kernel model develop in Kaggle as a guide. 
 
 Definition of the modular architecture of first sprint:
 ![draw](https://user-images.githubusercontent.com/43126280/54558538-64677500-4994-11e9-80a4-03c2d716ee34.jpeg)

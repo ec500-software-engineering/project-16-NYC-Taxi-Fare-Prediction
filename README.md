@@ -19,13 +19,10 @@ Definition of the modular architecture of first sprint:
 
 
 Technologies to be used in first sprint selected with clear reasons why they were chosen：
-# Kivy
-
-Kivy is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. The aim is to allow for quick and easy interaction design and rapid prototyping whilst making your code reusable and deployable.
 
 
 
-APIs of first sprint
+# APIs of first sprint
 
 Task assignments
 

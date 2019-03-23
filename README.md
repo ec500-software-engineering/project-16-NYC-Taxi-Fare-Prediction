@@ -5,7 +5,7 @@
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 
-We will predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
+We will build a mobile app that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
 
 # User stories: 
 

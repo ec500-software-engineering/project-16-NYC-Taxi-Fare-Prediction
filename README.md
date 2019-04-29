@@ -3,7 +3,7 @@
 > Project overview: 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
-We will build a mobile Android app that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. Our app would ask Google to figure out how to predict the estimated fare amount by using a few features to determine the expected fare amount. The information that Google has obtained are past taxi rides that include:Pickup Time/Date, Pickup Latitude/Longitude, Dropoff Latitude/Longitude, Passenger Count, Fare Amount.
+We will build ***a mobile Android app***that predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. Our app would ask Google to figure out how to predict the estimated fare amount by using a few features to determine the expected fare amount. The information that Google has obtained are past taxi rides that include:Pickup Time/Date, Pickup Latitude/Longitude, Dropoff Latitude/Longitude, Passenger Count, Fare Amount.
 
 To process the pickup and dropoff location information, we need to add a map to our Android app, and Android Studio would be the development environment we choose for building our app with the Maps SDK for Android. We get an API key with restriction for Android apps to access the Google Maps servers.
 

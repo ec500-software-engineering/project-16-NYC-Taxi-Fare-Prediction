@@ -8,7 +8,8 @@ We will build ***a mobile Android app*** that predict the fare amount (inclusive
 To process the pickup and dropoff location information, we need to add a map to our Android app, and Android Studio would be the development environment we choose for building our app with the Maps SDK for Android. We get an API key with restriction for Android apps to access the Google Maps servers.
 
 # User stories: 
-As a passenger，I would like to know my estimated taxi fare which is as more precise as possible.er
+As a passenger，I would like to know my estimated taxi fare which is as more precise as possible.
+
 As a driver, I'd like to see how much I can earn from a trip.
 
 

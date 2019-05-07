@@ -20,9 +20,13 @@ Definition of the modular architecture of first sprint:
 ## Dataset instruction
 
 > pickup_longitude - float for longitude coordinate of where the taxi ride started.
+
 > pickup_latitude - float for latitude coordinate of where the taxi ride started.
+
 > dropoff_longitude - float for longitude coordinate of where the taxi ride ended.
+
 > dropoff_latitude - float for latitude coordinate of where the taxi ride ended.
+
 > passenger_count - integer indicating the number of passengers in the taxi ride.
 
 In our task, the aim is to predict fare_amount - float dollar amount of the cost of the taxi ride. This value is only in the training set; this is what you are predicting in the test set and it is required in your submission CSV.
@@ -35,6 +39,16 @@ In our task, the aim is to predict fare_amount - float dollar amount of the cost
 
 ## App Implementation
 * **Google Maps SDK for Android**
+
+1. Add a Map to our application using the Maps SDK for Android. The map includes a marker (pin), to indicate a specific location.
+2. Select current location and display details of the place at that location. When the user clicks on search box, it will offer the user a list of likely places to choose from.
+3. UI Controls
+4. Map Gestures
+5. Location Data
+
 * **Google Places SDK for Android**
+
+The Places SDK for Android allows us to build location-aware apps that respond contextually to the local businesses and other places near the device. 
+
 
 

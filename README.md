@@ -1,4 +1,4 @@
-# New York City Taxi Fare Prediction Andord App
+# New York City Taxi Fare Prediction Android App
 
 > Project overview: 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
@@ -18,6 +18,8 @@ Definition of the modular architecture of first sprint:
 ![draw](https://user-images.githubusercontent.com/43126280/54558538-64677500-4994-11e9-80a4-03c2d716ee34.jpeg)
 
 ## Dataset instruction
+
+![](https://github.com/ec500-software-engineering/project-16-NYC-Taxi-Fare-Prediction/blob/master/image/Pick%20up%20locations%20in%20NYC%20.jpg)
 
 > pickup_longitude - float for longitude coordinate of where the taxi ride started.
 

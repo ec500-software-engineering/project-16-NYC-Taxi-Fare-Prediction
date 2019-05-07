@@ -18,11 +18,24 @@ As a driver, I'd like to see how much I can earn from a trip.
 Definition of the modular architecture of first sprint:
 ![draw](https://user-images.githubusercontent.com/43126280/54558538-64677500-4994-11e9-80a4-03c2d716ee34.jpeg)
 
-## System Design
+## Dataset instruction
 
-## Team  Members
-Zhibin Huang： hzhibin@bu.edu
+> pickup_longitude - float for longitude coordinate of where the taxi ride started.
+> pickup_latitude - float for latitude coordinate of where the taxi ride started.
+> dropoff_longitude - float for longitude coordinate of where the taxi ride ended.
+> dropoff_latitude - float for latitude coordinate of where the taxi ride ended.
+> passenger_count - integer indicating the number of passengers in the taxi ride.
 
-Shilu Wu： shiluwu@bu.edu
+In our task, the aim is to predict fare_amount - float dollar amount of the cost of the taxi ride. This value is only in the training set; this is what you are predicting in the test set and it is required in your submission CSV.
 
-Trello Board: https://trello.com/b/yJlflbZN/ec500-new-york-city-taxi-fare-prediction
+## Model Selection
+
+* Linear Regression: Based on the absolute longitude and latitude value to predict the fare amount by using linear regression.
+
+* XGBoost: It’s one of the gradient boost method called eXtreme Gradient Boost used for supervised Machine Learning. The weak learner used in XGBoost is generally the decision tree.
+
+## App Implementation
+* **Google Maps SDK for Android**
+* **Google Places SDK for Android**
+
+

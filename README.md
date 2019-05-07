@@ -1,4 +1,4 @@
-# New York City Taxi Fare Prediction
+# New York City Taxi Fare Prediction Andord App
 
 > Project overview: 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
@@ -11,7 +11,6 @@ To process the pickup and dropoff location information, we need to add a map to 
 As a passenger，I would like to know my estimated taxi fare which is as more precise as possible.
 
 As a driver, I'd like to see how much I can earn from a trip.
-
 
 # Definition of First Sprint: 
 

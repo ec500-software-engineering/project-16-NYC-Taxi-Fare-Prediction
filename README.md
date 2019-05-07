@@ -43,10 +43,21 @@ In our task, the aim is to predict fare_amount - float dollar amount of the cost
 * **Google Maps SDK for Android**
 
 1. Add a Map to our application using the Maps SDK for Android. The map includes a marker (pin), to indicate a specific location.
+
+![](https://github.com/ec500-software-engineering/project-16-NYC-Taxi-Fare-Prediction/blob/master/image/marker.jpg)
+
 2. Select current location and display details of the place at that location. When the user clicks on search box, it will offer the user a list of likely places to choose from.
 3. UI Controls
 4. Map Gestures
 5. Location Data
+
+！[](https://github.com/ec500-software-engineering/project-16-NYC-Taxi-Fare-Prediction/blob/master/image/location%20data.jpg)
+
+One of the unique features of mobile applications is location awareness. Adding location awareness to the app offers users a more contextual experience because mobile users bring their device with them everywhere.
+
+***Location permissions***: Allows the API to determine as precise a location as possible from the available location providers, including the Global Positioning System (GPS) as well as WiFi and mobile cell data.
+
+***The My Location layer***: Shows the user’s current position on the map. Once it’s enabled, the My Location button appears in the top right corner of the map. When a user clicks the button, the camera centers the map on the current location of the device. The location is indicated on the map by a small blue dot if the device is stationary, or as a chevron if the device is moving.
 
 * **Google Places SDK for Android**
 

@@ -51,7 +51,7 @@ In our task, the aim is to predict fare_amount - float dollar amount of the cost
 4. Map Gestures
 5. Location Data
 
-！[](https://github.com/ec500-software-engineering/project-16-NYC-Taxi-Fare-Prediction/blob/master/image/location%20data.jpg)
+![](https://github.com/ec500-software-engineering/project-16-NYC-Taxi-Fare-Prediction/blob/master/image/location%20data.jpg)
 
 One of the unique features of mobile applications is location awareness. Adding location awareness to the app offers users a more contextual experience because mobile users bring their device with them everywhere.
 
